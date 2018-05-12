@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5880
     wikipedia: http://en.wikipedia.org/wiki/Edward_Dutton_Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20237#Art-in-EnglandNotes-and-Studies
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-12-31'
 gutenberg_type: Text
